@@ -1,0 +1,47 @@
+body {
+    background-color: darkslategray;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: LightCoral;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    font-size: 25px;
+    color: CadetBlue;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: darkgoldenrod;
+    color: Cyan;
+    font-size: 30px;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    font-size: 10px
+}
+article2 {
+    padding: 40px;
+    min-height : 400px;
+    font-size: 20px
+}
+article3 {
+    padding: 40px;
+    min-height : 400px;
+    font-size: 30px
+}
+
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: black;
+}
